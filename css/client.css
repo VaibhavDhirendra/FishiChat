@@ -1,0 +1,45 @@
+.logo{
+    width: 12%;
+    height: 12%;
+    display: block;
+    margin: auto;
+}
+.profile_pic{
+    width: 20%;
+    height: 20%;
+    float: left;
+    clear: both;
+    padding: 3px;
+    border-radius: 40px;
+}
+
+body{
+    background-image: linear-gradient(rgb(39, 98, 206),rgb(236, 97, 62));
+}
+.container
+{
+   max-width: 999px;
+   background-color: white;
+   height: 89vh;
+margin: auto;
+border-radius: 2px;
+}
+.right{
+    float: right;
+    clear: both;
+}
+.left{
+    float: left;
+    clear: both;
+}
+.message{
+    background-color: aqua;
+    width: 24%;
+    padding: 6px;
+    margin: 9px;
+    border: 2px solid;
+    border-radius: 2px;
+}
+#send-container{
+  text-align: center;
+}
