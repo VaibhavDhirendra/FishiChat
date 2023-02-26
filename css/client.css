@@ -15,12 +15,13 @@
 
 body{
     background-image: linear-gradient(rgb(39, 98, 206),rgb(236, 97, 62));
+    height: 100vh;
 }
 .container
 {
    max-width: 999px;
    background-color: white;
-   height: 89vh;
+   height: 76vh;
 margin: auto;
 border-radius: 2px;
 }
@@ -33,13 +34,10 @@ border-radius: 2px;
     clear: both;
 }
 .message{
-    background-color: aqua;
+    background-color: rgb(146, 183, 252);
     width: 24%;
     padding: 6px;
     margin: 9px;
     border: 2px solid;
     border-radius: 2px;
-}
-#send-container{
-  text-align: center;
 }
