@@ -1,5 +1,5 @@
 # FishiChat
-<h1>RealTime Chat Application - LetsChat</h1>
+<h1>RealTime Chat Application </h1>
 
 <ul>
 <li>It is an scalable Realtime Chatting Application that provides an interface for multiple user chatting at the same time.</li>
